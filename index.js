@@ -44,7 +44,7 @@ const viewLogin = require('./controllers/logincontroller');
 
 /// ***************** 
 const uri = 'mongodb://localhost:27017/atnshop';
-const uri= "mongodb+srv://db03:aGBZRta11CBmt8qL@cluster0-q8a6f.mongodb.net/CloudDB?retryWrites=true&w=majority";
+const urixx = "mongodb+srv://db03:aGBZRta11CBmt8qL@cluster0-q8a6f.mongodb.net/CloudDB?retryWrites=true&w=majority";
 
 
 /// ***************** ***************** *****************
